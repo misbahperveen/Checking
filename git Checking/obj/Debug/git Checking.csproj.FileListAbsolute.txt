@@ -1,0 +1,6 @@
+c:\users\fall2017\documents\visual studio 2015\Projects\git Checking\git Checking\bin\Debug\git Checking.exe.config
+c:\users\fall2017\documents\visual studio 2015\Projects\git Checking\git Checking\bin\Debug\git Checking.exe
+c:\users\fall2017\documents\visual studio 2015\Projects\git Checking\git Checking\bin\Debug\git Checking.pdb
+c:\users\fall2017\documents\visual studio 2015\Projects\git Checking\git Checking\obj\Debug\git Checking.csprojResolveAssemblyReference.cache
+c:\users\fall2017\documents\visual studio 2015\Projects\git Checking\git Checking\obj\Debug\git Checking.exe
+c:\users\fall2017\documents\visual studio 2015\Projects\git Checking\git Checking\obj\Debug\git Checking.pdb
